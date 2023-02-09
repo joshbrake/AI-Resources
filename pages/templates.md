@@ -7,3 +7,5 @@
 	  date-published: 
 	  tags: 
 	  ---
+	- # Summary
+	- # Notes
