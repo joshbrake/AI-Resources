@@ -318,7 +318,6 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :feature/enable-journals? false
- :default-home {:page "Home"}
+ :default-home {:page "AI-Resources"}
  :publishing/all-pages-public? true
- :feature/enable-flashcards? false
  }
