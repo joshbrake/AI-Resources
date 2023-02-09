@@ -1,2 +1,18 @@
 - # Welcome
-- This is a Logseq graph containing AI resources. These are
+- This is a Logseq graph containing AI resources.
+- # Table of Contents
+- [[About AI Text Generators/Large Language Models]]
+- About AI Text Generators/Large Language Models
+  Implications for Higher Ed Writing Assignments
+  Audio and Video
+- Sample Policy Statements about Text Generators
+  Student Perspectives and Marketing to Students
+- [[Course Materials on AI Text Generators]]
+- [[Using Text Generators for Pedagogical Purposes]]
+- [[Peer-Reviewed Papers]]
+- [[Short Pieces on the General Topic of AI]]
+- [[Books on the General Topic of AI]]
+- [[Publicly Available Language Models]]
+- [[Detecting AI-Generated Text]]
+- [[Using Text Generators for Help Preparing Courses and Assessing Students]]
+- [[AI and Creative Writing]]
