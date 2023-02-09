@@ -1,1 +1,2 @@
-- # Welcome to AI
+- # Welcome
+- This is a Logseq graph containing AI resources. These are
