@@ -1,1 +1,2 @@
 - [[Alarmed by A.I. Chatbots, Universities Start Revamping How They Teach]]
+- [[Adapting College Writing for the Age of Large Language Models such as ChatGPT: Some Next Steps for Educators]]
