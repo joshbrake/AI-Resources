@@ -2,11 +2,10 @@
 - This is a Logseq graph containing AI resources.
 - # Table of Contents
 - [[About AI Text Generators/Large Language Models]]
-- About AI Text Generators/Large Language Models
-  Implications for Higher Ed Writing Assignments
-  Audio and Video
-- Sample Policy Statements about Text Generators
-  Student Perspectives and Marketing to Students
+- [[Implications for Higher Ed Writing Assignments]]
+- [[Audio and Video]]
+- [[Sample Policy Statements about Text Generators]]
+- [[Student Perspectives and Marketing to Students]]
 - [[Course Materials on AI Text Generators]]
 - [[Using Text Generators for Pedagogical Purposes]]
 - [[Peer-Reviewed Papers]]
