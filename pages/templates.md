@@ -1,0 +1,6 @@
+- Resource
+	- ---
+	  author: 
+	  link: 
+	  tags: 
+	  ---
